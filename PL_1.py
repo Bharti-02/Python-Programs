@@ -1,3 +1,4 @@
+# search name in list print found if name in list 
 def name_search(name,target):
     for i in range(len(name)):
         if name[i]==target:
